@@ -1,0 +1,13 @@
+.video-collections{
+    padding: 136px 16px 0px 88px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    
+
+}
+.video-card{
+    background-color: lightcoral;
+    height: 250px;   
+}
